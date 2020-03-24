@@ -1,5 +1,5 @@
 {
-  "name": "vangos-portfolio",
+  "name": "vango",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "core-js": "^3.4.3",
+    "express": "^4.17.1",
     "vue": "^2.6.10",
     "vue-material": "^1.0.0-beta-11",
     "vue-router": "^3.1.3"

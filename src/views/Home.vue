@@ -11,10 +11,13 @@
         <md-list-item>
           <md-icon class="md-primary">email</md-icon>
           <span class="md-list-item-text">
-            <a
-              href="mailto:evangelos.poneres@gmail.com"
-              target="_top"
-            >evangelos.poneres@gmail.com</a>
+            <a href="mailto:evangelos.poneres@gmail.com" target="_top">evangelos.poneres@gmail.com</a>
+          </span>
+        </md-list-item>
+        <md-list-item>
+          <md-icon class="md-primary">camera</md-icon>
+          <span class="md-list-item-text">
+            <a href="https://bit.ly/2Jwtgvx" target="_blank">zoom</a>
           </span>
         </md-list-item>
         <md-list-item>
@@ -39,8 +42,8 @@
 
 <style scoped>
 .contact {
-  -webkit-transform: translate(-50%,-50%);
-  transform: translate(-50%,-50%);
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
   position: absolute;
   top: 40%;
   left: 50%;
@@ -51,12 +54,12 @@
 }
 
 .linkedin-icon {
-  margin-left: 3px;
-  margin-right: 33px;
+  margin-left: 2px;
+  margin-right: 34px;
 }
 .github-icon {
-  margin-left: 2px;
-  margin-right: 32px;
+  margin-left: 1px;
+  margin-right: 34px;
 }
 </style>
 

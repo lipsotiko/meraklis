@@ -3,15 +3,9 @@
     <md-card-content>
       <md-list>
         <md-list-item>
-          <md-icon class="md-primary">phone</md-icon>
-          <span class="md-list-item-text">
-            <a href="tel:443-301-9719">443-301-9719</a>
-          </span>
-        </md-list-item>
-        <md-list-item>
           <md-icon class="md-primary">email</md-icon>
           <span class="md-list-item-text">
-            <a href="mailto:evangelos.poneres@gmail.com" target="_top">evangelos.poneres@gmail.com</a>
+            <a href="mailto:evangelos.poneres@gmail.com" target="_top">e-mail</a>
           </span>
         </md-list-item>
         <md-list-item>
@@ -26,13 +20,13 @@
             <a
               href="https://www.linkedin.com/in/evangelos-poneres/"
               target="_blank"
-            >https://www.linkedin.com/in/evangelos-poneres</a>
+            >linkedin</a>
           </span>
         </md-list-item>
         <md-list-item>
           <GitHub class="github-icon" />
           <span class="md-list-item-text">
-            <a href="https://github.com/lipsotiko" target="_blank">https://github.com/lipsotiko</a>
+            <a href="https://github.com/lipsotiko" target="_blank">git</a>
           </span>
         </md-list-item>
       </md-list>
@@ -49,17 +43,12 @@
   left: 50%;
 }
 
-.md-card {
-  width: 500px;
-}
-
 .linkedin-icon {
   margin-left: 2px;
   margin-right: 34px;
 }
 .github-icon {
-  margin-left: 1px;
-  margin-right: 34px;
+  margin-right: 30.5px;
 }
 </style>
 

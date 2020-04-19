@@ -29,6 +29,12 @@
             <a href="https://github.com/lipsotiko" target="_blank">git</a>
           </span>
         </md-list-item>
+        <md-list-item>
+          <md-icon class="md-primary">description</md-icon>
+          <span class="md-list-item-text">
+            <a href="./assets/RESUME.pdf" download>resume</a>
+          </span>
+        </md-list-item>
       </md-list>
     </md-card-content>
   </md-card>

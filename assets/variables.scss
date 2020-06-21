@@ -1,0 +1,15 @@
+// Ref: https://github.com/nuxt-community/vuetify-module#customvariables
+//
+// The variables you want to modify
+// $font-size-root: 20px;
+
+@font-face {
+  font-family: 'FestivoNo18';
+  src: url('static/font/festivo_no18.otf');
+}
+
+$heading-font-family: FestivoNo18, 'Roboto', sans-serif !default;
+
+// $btn-font-sizes: (
+//   'large': 28px
+// );
